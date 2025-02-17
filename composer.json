@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Modules\\FrontendDispatchs\\": "Modules/FrontendDispatchs/"
+            "Modules\\FrontendDispatchs\\": ""
         }
     },
     "extra": {
