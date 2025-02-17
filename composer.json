@@ -11,9 +11,7 @@
     "extra": {
         "laravel": {
             "providers": [],
-            "aliases": {
-
-            }
+            "aliases": {}
         }
     },
     "autoload": {
@@ -21,10 +19,7 @@
             "FrontendDispatchs\\": ""
         }
     },
-    "repositories": [
-        {
-            "type": "path",
-            "url": "https://github.com/celeron2100/FrontendCars.git"
-        }
-    ]
+    "extra": {
+        "module-dir": "Modules"
+    }
 }
