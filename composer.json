@@ -1,0 +1,30 @@
+{
+    "name": "celeron2100/frontenddispatchs",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Justin C.",
+            "email": "celeron2100@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "FrontendDispatchs\\": ""
+        }
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "https://github.com/celeron2100/FrontendCars.git"
+        }
+    ]
+}
